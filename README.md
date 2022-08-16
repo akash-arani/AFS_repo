@@ -1,4 +1,4 @@
-Spatial_Plots_Mrholess.ipynb: 
+*Spatial_Plots_Mrholess.ipynb*: 
 Code for spatial analysis of mutant allele when  mrho << 1 << L in 1D. Produces Figure 1
 
 Spatial_Plots_Mrhogreat.ipynb: 
